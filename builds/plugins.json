@@ -384,7 +384,7 @@
         "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/VisionCine.cs3",
         "name": "VisionCine",
         "description": "VisionCine - Baseado em MultiAPI. Filmes, Séries, Animes e Doramas - 4k, FHD e HD."
-    } {
+    }, {
         "name": "Aniyomi",
         "url": "https://github.com/CranberrySoup/AniyomiCompat/raw/master/builds/AniyomiProvider.cloudstream",
         "version": 1,
