@@ -234,14 +234,6 @@
         "apiVersion": 2
     },
     {
-        "name": "Aniyomi",
-        "authors": ["CranberrySoup"],
-        "description": "Aniyomi extensions for CloudStream",
-        "url": "https://github.com/CranberrySoup/AniyomiCompat/raw/master/builds/AniyomiProvider.cloudstream",
-        "iconUrl": "https://raw.githubusercontent.com/CranberrySoup/AniyomiCompat/master/icon.png",
-        "version": 1
-    },
-    {
         "name": "AnimeFire",
         "internalName": "AnimeFire",
         "authors": ["lawlietbr"],
@@ -249,7 +241,7 @@
         "url": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/AnimeFire.cs3",
         "jarUrl": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/AnimeFire.jar",
         "iconUrl": "https://animefire.io/img/icons/favicon-192x192.png",
-        "tvTypes": ["Animes"],
+        "tvTypes": ["Anime"],
         "language": "pt-br",
         "version": 2,
         "apiVersion": 1
@@ -258,11 +250,11 @@
         "name": "AniTube",
         "internalName": "AniTube",
         "authors": ["lawlietbr"],
-        "description": "AniTube é um site para assistir seus animes favoritos online.",
+        "description": "AniTube - Assista seus animes favoritos online.",
         "url": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/AniTube.cs3",
         "jarUrl": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/AniTube.jar",
         "iconUrl": "https://www.anitube.news/wp-content/uploads/cropped-Favicon6-192x192.png",
-        "tvTypes": ["Animes"],
+        "tvTypes": ["Anime"],
         "language": "pt-br",
         "version": 2,
         "apiVersion": 1
@@ -275,7 +267,7 @@
         "url": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/CineAgora.cs3",
         "jarUrl": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/CineAgora.jar",
         "iconUrl": "https://cineagora.net/templates/cineagora/images/touch-icon-180x180.png",
-        "tvTypes": ["Movies", "Series", "Animes"],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
         "language": "pt-br",
         "version": 1,
         "apiVersion": 1
@@ -327,7 +319,7 @@
         "url": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/Goyabu.cs3",
         "jarUrl": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/Goyabu.jar",
         "iconUrl": "https://goyabu.io/wp-content/uploads/2025/12/cropped-goyabu-favicon-192x192.png",
-        "tvTypes": ["Animes"],
+        "tvTypes": ["Anime"],
         "language": "pt-br",
         "version": 2,
         "apiVersion": 1
@@ -340,7 +332,7 @@
         "url": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/MendigoFlix.cs3",
         "jarUrl": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/MendigoFlix.jar",
         "iconUrl": "https://mendigoflix.lol/assets/favicon.png",
-        "tvTypes": ["Movies", "Series", "Animes"],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
         "language": "pt-br",
         "version": 3,
         "apiVersion": 1
