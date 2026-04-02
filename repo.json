@@ -1,9 +1,7 @@
 {
-  "name": "Marcos Double Deck independent Studio",
-  "iconUrl": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/twt-run.png",
-  "description": "Repositório oficial unificado Double Deck Chaos",
+  "name": "Marcos ",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://double-deck-chaos.github.io/saimuelrepo/plugins.json"
+    "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/plugins.json"
   ]
 }
