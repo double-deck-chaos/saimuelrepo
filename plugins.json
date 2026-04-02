@@ -258,7 +258,7 @@
         "name": "AniTube",
         "internalName": "AniTube",
         "authors": ["lawlietbr"],
-        "description": "AniTube - Assista seus animes favoritos online.",
+        "description": "AniTube é um site para assistir seus animes favoritos online.",
         "url": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/AniTube.cs3",
         "jarUrl": "https://raw.githubusercontent.com/double-deck-chaos/saimuelrepo/main/builds/AniTube.jar",
         "iconUrl": "https://www.anitube.news/wp-content/uploads/cropped-Favicon6-192x192.png",
