@@ -330,6 +330,54 @@
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/AnimeFire.jar",
         "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/AnimeFire.cs3",
         "name": "AnimeFire",
+        "description": "AnimeFire - Animes Online em HD." 
+    },    {
+        "iconUrl": "https://i.imgur.com/vHCH4pY.png",
+        "fileSize": 0,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
+        "status": 1,
+        "language": "pt-br",
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Anime", "AnimeMovie"],
+        "version": 1,
+        "internalName": "Anitube",
+        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/AniTube.jar",
+        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/AniTube.cs3",
+        "name": "Anitube",
+        "description": "Anitube - Animes em HD."
+    },
+    {
+        "iconUrl": "https://i.imgur.com/vHCH4pY.png",
+        "fileSize": 0,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
+        "status": 1,
+        "language": "pt-br",
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries"],
+        "version": 1,
+        "internalName": "MendigoFlix",
+        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/MendigoFlix.jar",
+        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/MendigoFlix.cs3",
+        "name": "MendigoFlix",
+        "description": "MendigoFlix - Filmes e Séries Grátis."
+    },
+    {
+        "iconUrl": "https://i.imgur.com/vHCH4pY.png",
+        "fileSize": 0,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
+        "status": 1,
+        "language": "pt-br",
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Anime", "AnimeMovie"],
+        "version": 1,
+        "internalName": "AnimeFire",
+        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/AnimeFire.jar",
+        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/AnimeFire.cs3",
+        "name": "AnimeFire",
         "description": "AnimeFire - Animes Online em HD."
     }
+    
 ]
