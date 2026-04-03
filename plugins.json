@@ -6,15 +6,8 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "Phisher98",
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
+        "authors": ["Phisher98", "saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
         "version": 7,
         "internalName": "NetCine",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/NetCine.jar",
@@ -28,14 +21,8 @@
         "apiVersion": 7,
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries", "Anime"],
         "version": 7,
         "internalName": "PobreFlix",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/PobreFlix.jar",
@@ -50,13 +37,8 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries"],
         "version": 5,
         "internalName": "Streamberry",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/Streamberry.jar",
@@ -71,13 +53,8 @@
         "apiVersion": 2,
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries"],
         "version": 2,
         "internalName": "TopFilmes",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/TopFilmes.jar",
@@ -93,13 +70,8 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Anime", "AnimeMovie"],
         "version": 3,
         "internalName": "AnimesCloud",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/AnimesCloud.jar",
@@ -113,18 +85,14 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Live"],
         "version": 7,
         "internalName": "EmbedTVOnline",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/EmbedTVOnline.jar",
         "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/EmbedTVOnline.cs3",
         "name": "EmbedTVOnline",
-        "description": "EmbedTVOnline - Futebol, UFC, Tênis. Basquete, Filmes e Séries Ao Vivo em FHD e HD.",
+        "description": "EmbedTVOnline - Futebol Ao Vivo em FHD e HD.",
         "language": "pt-br"
     },
     {
@@ -134,13 +102,8 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries"],
         "version": 4,
         "internalName": "NovelasFlix",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/NovelasFlix.jar",
@@ -155,13 +118,8 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries"],
         "version": 4,
         "internalName": "MegaFlix",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/MegaFlix.jar",
@@ -176,13 +134,8 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries"],
         "version": 6,
         "internalName": "GoFlix",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/GoFlix.jar",
@@ -197,13 +150,8 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries"],
         "version": 2,
         "internalName": "UltraCine",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/UltraCine.jar",
@@ -218,13 +166,8 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Anime", "AnimeMovie"],
         "version": 1,
         "internalName": "BetterAnime",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/BetterAnime.jar",
@@ -239,13 +182,8 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Anime", "AnimeMovie"],
         "version": 1,
         "internalName": "DonghuaNoSekai",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/DonghuaNoSekai.jar",
@@ -260,13 +198,8 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "TLN+",
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
+        "authors": ["TLN+", "saimuelbr"],
+        "tvTypes": ["AsianDrama"],
         "version": 2,
         "internalName": "Doramas",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/Doramas.jar",
@@ -281,15 +214,8 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 0,
         "language": "pt-br",
-        "authors": [
-            "Hexated",
-            "Mr.Robot",
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
+        "authors": ["Hexated", "Mr.Robot", "saimuelbr"],
+        "tvTypes": ["Anime", "AnimeMovie"],
         "version": 2,
         "internalName": "Anroll",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/Anroll.jar",
@@ -304,13 +230,8 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries"],
         "version": 2,
         "internalName": "FilmesOn",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/FilmesOn.jar",
@@ -319,26 +240,20 @@
         "description": "FilmesOn - Filmes e Séries em FHD e HD."
     },
     {
-    "iconUrl": "https://animesdigital.org/wp-content/uploads/2025/03/cropped-logo-e1740827992823-192x192.png",
-    "fileSize": 27391,
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
-    "status": 1,
-    "language": "pt-br",
-    "authors": [
-        "saimuelbr",
-        "Sephiroth"
-    ],
-    "tvTypes": [
-        "Anime",
-        "AnimeMovie"
-    ],
-    "version": 2,
-    "internalName": "AnimesDigital",
-    "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/AnimesDigital.jar",
-    "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/AnimesDigital.cs3",
-    "name": "AnimesDigital",
-    "description": "Animes Digital - Animes em FHD LEG e DUB."
+        "iconUrl": "https://animesdigital.org/wp-content/uploads/2025/03/cropped-logo-e1740827992823-192x192.png",
+        "fileSize": 27391,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
+        "status": 1,
+        "language": "pt-br",
+        "authors": ["saimuelbr", "Sephiroth"],
+        "tvTypes": ["Anime", "AnimeMovie"],
+        "version": 2,
+        "internalName": "AnimesDigital",
+        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/AnimesDigital.jar",
+        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/AnimesDigital.cs3",
+        "name": "AnimesDigital",
+        "description": "Animes Digital - Animes em FHD LEG e DUB."
     },
     {
         "iconUrl": "https://overflix.me/assets/img/android-chrome-192x192.png",
@@ -347,13 +262,8 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries"],
         "version": 2,
         "internalName": "OverFlix",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/OverFlix.jar",
@@ -368,30 +278,14 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "AnimeMovie",
-            "AsianDrama"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries", "Anime", "AnimeMovie", "AsianDrama"],
         "version": 2,
         "internalName": "VisionCine",
         "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/VisionCine.jar",
         "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/VisionCine.cs3",
         "name": "VisionCine",
-        "description": "VisionCine - Baseado em MultiAPI. Filmes, Séries, Animes e Doramas - 4k, FHD e HD."
-        },
-    {
-        "name": "Aniyomi",
-        "url": "https://github.com/CranberrySoup/AniyomiCompat/raw/master/builds/AniyomiProvider.cloudstream",
-        "version": 1,
-        "authors": ["CranberrySoup"],
-        "description": "Aniyomi extensions for CloudStream",
-        "iconUrl": "https://raw.githubusercontent.com/CranberrySoup/AniyomiCompat/master/icon.png"
+        "description": "VisionCine - Filmes, Séries e Animes - 4k e FHD."
     },
     {
         "fileSize": 0,
@@ -399,17 +293,12 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Anime", "AnimeMovie"],
         "version": 1,
         "internalName": "Anitube",
-        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/Anitube.jar",
-        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/Anitube.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/AniTube.jar",
+        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/AniTube.cs3",
         "name": "Anitube",
         "description": "Anitube - Animes em HD."
     },
@@ -419,17 +308,12 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Movie", "TvSeries"],
         "version": 1,
         "internalName": "MendingoFlix",
-        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/MendingoFlix.jar",
-        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/MendingoFlix.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/MendigoFlix.jar",
+        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/MendigoFlix.cs3",
         "name": "MendingoFlix",
         "description": "MendingoFlix - Filmes e Séries Grátis."
     },
@@ -439,17 +323,12 @@
         "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
         "status": 1,
         "language": "pt-br",
-        "authors": [
-            "saimuelbr"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
+        "authors": ["saimuelbr"],
+        "tvTypes": ["Anime", "AnimeMovie"],
         "version": 1,
         "internalName": "AnimeFire",
-        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/AnimeFire.jar",
-        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/AnimeFire.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/AnimeFire.jar",
+        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/AnimeFire.cs3",
         "name": "AnimeFire",
         "description": "AnimeFire - Animes Online em HD."
     }
