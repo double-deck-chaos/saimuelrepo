@@ -392,5 +392,65 @@
         "authors": ["CranberrySoup"],
         "description": "Aniyomi extensions for CloudStream",
         "iconUrl": "https://raw.githubusercontent.com/CranberrySoup/AniyomiCompat/master/icon.png"
+    },
+    {
+        "fileSize": 0,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "saimuelbr"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "Anitube",
+        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/Anitube.jar",
+        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/Anitube.cs3",
+        "name": "Anitube",
+        "description": "Anitube - Animes em HD."
+    },
+    {
+        "fileSize": 0,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "saimuelbr"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "MendingoFlix",
+        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/MendingoFlix.jar",
+        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/MendingoFlix.cs3",
+        "name": "MendingoFlix",
+        "description": "MendingoFlix - Filmes e Séries Grátis."
+    },
+    {
+        "fileSize": 0,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
+        "status": 1,
+        "language": "pt-br",
+        "authors": [
+            "saimuelbr"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "AnimeFire",
+        "jarUrl": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/AnimeFire.jar",
+        "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/AnimeFire.cs3",
+        "name": "AnimeFire",
+        "description": "AnimeFire - Animes Online em HD."
     }
 ]
